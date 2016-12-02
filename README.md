@@ -1,3 +1,8 @@
+clone地址：
+```bash
+git clone git://github.com/bxcn/sublime_plugins_config.git
+```
+
 # 安装Sublime Package Control 安装步骤
 
 * 第一步：打开sublime 找到View > Show Console这个菜单或 ctrl+` 打开 console它;
@@ -129,7 +134,6 @@ SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。�
 
 你知道当你编写代码时，由于错误或别的某些原因，会产生一些不必要的空格。需要注意的是多余的空格有时也会造成错误。这个插件会自动删除这些不必要的空格。
 
-
 ##17、FileDiffs
 
 这个插件允许你看到SublimeText中两个不同文件的差异。你可以比较的对象可以是从剪贴板中复制的数据，或工程中的文件，当前打开的文件等
@@ -161,22 +165,22 @@ ST本来自带的创建新文件的快捷键是ctrl+n。但是用户需要保存
 
 ##Clipboard History
 **功能：**粘贴板历史记录
-**简介：**方便使用复制/剪切的内容
-**使用：**
-Ctrl+alt+v：显示历史记录
-Ctrl+alt+d：清空历史记录
-Ctrl+shift+v：粘贴上一条记录（最旧）
-Ctrl+shift+alt+v：粘贴下一条记录（最新）
+**简介：**方便使用复制/剪切的内容.
+**使用：**.
+Ctrl+alt+v：显示历史记录.
+Ctrl+alt+d：清空历史记录.
+Ctrl+shift+v：粘贴上一条记录（最旧）.
+Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 
 
 ##25、IMESupport
-**功能：**sublime中文输入法
-**简介：**还在纠结 Sublime Text 中文输入法不能跟随光标吗？试试「IMESupport 」这个插件吧！目前只支持 Windows，在搜索等界面不能很好的跟随光标。
-**使用：**Ctrl + Shift + P →输入pci →输入IMESupport →回车
+**功能：**sublime中文输入法.
+**简介：**还在纠结 Sublime Text 中文输入法不能跟随光标吗？试试「IMESupport 」这个插件吧！目前只支持 Windows，在搜索等界面不能很好的跟随光标.
+**使用：**Ctrl + Shift + P →输入pci →输入IMESupport →回车.
 
 
 ##26、Trailing spaces
-
-**功能：**检测并一键去除代码中多余的空格
-**简介：**还在纠结代码中有多余的空格而显得代码不规范？或是有处女座情节？次插件帮你实现发现多余空格、一键删除空格、保存时自动删除多余空格，让你的代码规范清爽起来
-**使用：**安装插件并重启，即可自动提示多余空格。一键删除多余空格：CTRL+SHITF+T（需配置），更多配置请点击标题。快捷键配置：在Preferences / Key Bindings – User加上代码（数组内）
+**功能：**检测并一键去除代码中多余的空格.
+**简介：**.
+还在纠结代码中有多余的空格而显得代码不规范？或是有处女座情节？次插件帮你实现发现多余空格、一键删除空格、保存时自动删除多余空格，让你的代码规范清爽起来
+**使用：**安装插件并重启，即可自动提示多余空格。一键删除多余空格：CTRL+SHITF+T（需配置），更多配置请点击标题。快捷键配置：在Preferences / Key Bindings – User加上代码（数组内）.
