@@ -21,19 +21,19 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 ```
 
 #常用插件导航
-- [1、Emmet插件 (*)](#1Emmet插件)
+- [1、Emmet ](#1Emmet)
 - [2、Terminal]
-- [3、Snippet (*)]
-- [4、Http Requester (*)]
-- [5、jsFormate (*)]
+- [3、Snippet ]
+- [4、Http Requester ]
+- [5、jsFormate ]
 - [6、cssFormate]
 - [7、CSSComb]
 - [8、SublimeLinter]
 - [9、 SASS Build]
-- [10、SideBarEnhancements (*)]
+- [10、SideBarEnhancements ]
 - [11、Nettuts Fetch]
 - [12、SublimeLinter]
-- [14、Sublime CodeIntel (*)]
+- [14、Sublime CodeIntel ]
 - [15、Bracket Highlighter]
 - [16、Trmmer]
 - [17、FileDiffs]
@@ -50,7 +50,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 #常用插件
 
-##1、Emmet插件 (*)
+##1、Emmet 
 
 概括地说，Emmet（译者注：前身就是以前大名鼎鼎的Zen Coding，这个如果你没听说和使用过，就悲哀了）是一个可以让你更快更高效地编写HTML和CSS，节省你大量时间的插件。怎么使用？你只需按约定的缩写形式书写而不用写整个代码，然后按“扩展(Tab)”键，这些缩写就会自动扩展为对应的代码内容。 比如，你只需要输入 ((h4>a[rel=external])+p>img[width=500 height=320])*12 ，然后它会被扩展转换成12个列表项和紧随其后的图像。然后你就可以在此基础上再填写内容，就这么简单。
 
@@ -58,18 +58,18 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 
 这个插件可以让你在Sublime中直接使用终端打开你的项目文件夹，并支持使用快捷键。
 
-##3、Snippet (*)
+##3、Snippet 
 创建方法：Tools > Developer > New Snippet
 创建快捷键：ctrl+shift+p
 
 我们在编写代码的时候，总会遇到一些需要反复使用的代码片段。这时候就需要反复的复制和黏贴，大大影响效率。我们利用Sublime Text的snippet功能，就能很好的解决这一问题。通俗的讲，就是把我们常用的代码分别保存起啦，然后通过插件的形式来反复调用。
 
-##4、Http Requester (*)
+##4、Http Requester 
 
 请求URL地址的插件
 
 
-##5、jsFormate (*)
+##5、jsFormate 
 
 js格式化
 
@@ -94,7 +94,7 @@ css格式化
 SASS Build 是一个编写CSS的预处理器。这个特别的插件将帮助你妥善构建包括压缩选项在内的SASS文件。一旦你安装了这个插件，你可以很容易地通过按Ctrl+ B（MAC系统是 Command +B）来启动它。
 
 
-##10、SideBarEnhancements (*)
+##10、SideBarEnhancements 
 
 SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。他可以定义不同的快捷键打开不同的浏览器。接下来，我们先安装它
 
@@ -147,7 +147,7 @@ SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。�
 这个插件最近才为SublimeText3重建和发布。新版本显然带来了很多新的有所不同的功能，而不是简单地把所有的Linter放在一个包中，开发者允许用户在升级时选择并安装自己经常使用的Linter。很明显，这可以节省磁盘空间。“更多的定制”，这对用户是很友好的。
 
 
-##14、Sublime CodeIntel (*)
+##14、Sublime CodeIntel 
 
 代码自动提示
 
