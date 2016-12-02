@@ -163,7 +163,7 @@ ST本来自带的创建新文件的快捷键是ctrl+n。但是用户需要保存
 ##24、Alignment
 使”=”号对齐，变量定义太多，长短不一，可一键对齐,默认快捷键Ctrl+Alt+A和QQ截屏冲突，可设置其他快捷键如：Ctrl+Shift+Alt+A；先选择要对齐的文本
 
-##Clipboard History
+##25、Clipboard History
 **功能：**粘贴板历史记录.
 
 **简介：**方便使用复制/剪切的内容.
@@ -179,7 +179,7 @@ Ctrl+shift+v：粘贴上一条记录（最旧）.
 Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 
 
-##25、IMESupport
+##26、IMESupport
 **功能：**sublime中文输入法.
 
 **简介：**还在纠结 Sublime Text 中文输入法不能跟随光标吗？试试「IMESupport 」这个插件吧！目前只支持 Windows，在搜索等界面不能很好的跟随光标.
@@ -188,7 +188,7 @@ Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 
 
 
-##26、Trailing spaces
+##27、Trailing spaces
 **功能：**检测并一键去除代码中多余的空格.
 
 **简介：**在纠结代码中有多余的空格而显得代码不规范？或是有处女座情节？次插件帮你实现发现多余空格、一键删除空格、保存时自动删除多余空格，让你的代码规范清爽起来.
