@@ -32,7 +32,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 - [sass build](#sass-build)
 - [sidebarenhancements ](#sidebarenhancements)
 - [nettuts fetch](#nettuts-fetch)
-- [sublimelinter](#sublimelinter)
+- [plaintasks](#plaintasks)
 - [sublime codeintel](#sublime-codeintel)
 - [bracket highlighter](#bracket-highlighter)
 - [trmmer](#trmmer)
@@ -142,15 +142,12 @@ SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。�
 如果你在用一些公用的或者开源的框架，比如 Normalize.css或者modernizr.js，但是，过了一段时间后，可能该开源库已经更新了，而你没有发现，这个时候可能已经不太适合你的项目了，那么你就要重新折腾一遍或者继续用陈旧的文件。Nettuts Fetch可以让你设置一些需要同步的文件列表，然后保存更新
 
 
-##SublimeLinter
+##plaintasks
+PlainTasks 支持通过快捷键来添加任务、标记完成、归档，支持添加标签等等功能，且充分利用了 Sublime Text 2 的一些功能优势.
 
-这个插件最近才为SublimeText3重建和发布。新版本显然带来了很多新的有所不同的功能，而不是简单地把所有的Linter放在一个包中，开发者允许用户在升级时选择并安装自己经常使用的Linter。很明显，这可以节省磁盘空间。“更多的定制”，这对用户是很友好的。
+##Sublime CodeIntel
 
-
-##Sublime CodeIntel 
-
-代码自动提示
-
+代码自动提示.
 
 ##Bracket Highlighter
 
