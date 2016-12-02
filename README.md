@@ -21,80 +21,80 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 ```
 
 #常用插件导航
-- [1、Emmet ](#1Emmet)
-- [2、Terminal]
-- [3、Snippet ]
-- [4、Http Requester ]
-- [5、jsFormate ]
-- [6、cssFormate]
-- [7、CSSComb]
-- [8、SublimeLinter]
-- [9、 SASS Build]
-- [10、SideBarEnhancements ]
-- [11、Nettuts Fetch]
-- [12、SublimeLinter]
-- [14、Sublime CodeIntel ]
-- [15、Bracket Highlighter]
-- [16、Trmmer]
-- [17、FileDiffs]
-- [18、GBK Support]
-- [19、jQuery Package]
-- [20、DocBlock]
-- [21、AutoFileName]
-- [22、AdvanceNewFile]
-- [23、babel]
-- [25、Clipboard History]
-- [26、IMESupport]
-- [27、Trailing spaces]
+- [emmet ](#emmet)
+- [terminal](terminal)
+- [snippet ](terminal)
+- [http requester ](http-requester)
+- [jsformate ](terminal)
+- [cssformate](terminal)
+- [csscomb](csscomb)
+- [sublimelinter](sublimelinter)
+- [sass build](sass-build)
+- [sidebarenhancements ](sidebarenhancements)
+- [nettuts fetch](nettuts-fetch)
+- [sublimelinter](sublimelinter)
+- [sublime codeintel](sublime-codeintel)
+- [bracket highlighter](bracket-highlighter)
+- [trmmer](trmmer)
+- [filediffs](filediffs)
+- [gbk support](gbk-support)
+- [jquery package](jquery-package)
+- [docblock](terminal)
+- [autofilename](autofilename)
+- [advancenewfile](terminal)
+- [babel](terminal)
+- [clipboard history](clipboard-history)
+- [imesupport](imesupport)
+- [trailing spaces](trailing-spaces)
 
 
 #常用插件
 
-##1、Emmet 
+##Emmet 
 
 概括地说，Emmet（译者注：前身就是以前大名鼎鼎的Zen Coding，这个如果你没听说和使用过，就悲哀了）是一个可以让你更快更高效地编写HTML和CSS，节省你大量时间的插件。怎么使用？你只需按约定的缩写形式书写而不用写整个代码，然后按“扩展(Tab)”键，这些缩写就会自动扩展为对应的代码内容。 比如，你只需要输入 ((h4>a[rel=external])+p>img[width=500 height=320])*12 ，然后它会被扩展转换成12个列表项和紧随其后的图像。然后你就可以在此基础上再填写内容，就这么简单。
 
-##2、Terminal
+##Terminal
 
 这个插件可以让你在Sublime中直接使用终端打开你的项目文件夹，并支持使用快捷键。
 
-##3、Snippet 
+##Snippet 
 创建方法：Tools > Developer > New Snippet
 创建快捷键：ctrl+shift+p
 
 我们在编写代码的时候，总会遇到一些需要反复使用的代码片段。这时候就需要反复的复制和黏贴，大大影响效率。我们利用Sublime Text的snippet功能，就能很好的解决这一问题。通俗的讲，就是把我们常用的代码分别保存起啦，然后通过插件的形式来反复调用。
 
-##4、Http Requester 
+##Http Requester 
 
 请求URL地址的插件
 
 
-##5、jsFormate 
+##jsFormate 
 
 js格式化
 
-##6、cssFormate
+##cssFormate
 
 css格式化
 
 
-##7、CSSComb
+##CSSComb
 
 这是用来给CSS属性进行排序的格式化插件。如果你想保持的代码干净整洁，并且希望按一定的顺序排列（是不是有点强迫症了？），那么这个插件是一种有效解决的方案。特别是当你和其他有自己代码编写风格的开发者一同协作的时候。
 
 
 
-##8、SublimeLinter
+##SublimeLinter
 
 这个插件最近才为SublimeText3重建和发布。新版本显然带来了很多新的有所不同的功能，而不是简单地把所有的Linter 放在一个包中，开发者允许用户在升级时选择并安装自己经常使用的Linter。很明显，这可以节省磁盘空间。“更多的定制”，这对用户是很友好的。
 
 
-##9、 SASS Build
+##SASS Build
 
 SASS Build 是一个编写CSS的预处理器。这个特别的插件将帮助你妥善构建包括压缩选项在内的SASS文件。一旦你安装了这个插件，你可以很容易地通过按Ctrl+ B（MAC系统是 Command +B）来启动它。
 
 
-##10、SideBarEnhancements 
+##SideBarEnhancements 
 
 SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。他可以定义不同的快捷键打开不同的浏览器。接下来，我们先安装它
 
@@ -137,60 +137,60 @@ SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。�
 
 
 
-##11、Nettuts Fetch
+##Nettuts Fetch
 
 如果你在用一些公用的或者开源的框架，比如 Normalize.css或者modernizr.js，但是，过了一段时间后，可能该开源库已经更新了，而你没有发现，这个时候可能已经不太适合你的项目了，那么你就要重新折腾一遍或者继续用陈旧的文件。Nettuts Fetch可以让你设置一些需要同步的文件列表，然后保存更新
 
 
-##12、SublimeLinter
+##SublimeLinter
 
 这个插件最近才为SublimeText3重建和发布。新版本显然带来了很多新的有所不同的功能，而不是简单地把所有的Linter放在一个包中，开发者允许用户在升级时选择并安装自己经常使用的Linter。很明显，这可以节省磁盘空间。“更多的定制”，这对用户是很友好的。
 
 
-##14、Sublime CodeIntel 
+##Sublime CodeIntel 
 
 代码自动提示
 
 
-##15、Bracket Highlighter
+##Bracket Highlighter
 
 类似于代码匹配，可以匹配括号，引号等符号内的范围。
 
 
-##16、Trmmer
+##Trmmer
 
 你知道当你编写代码时，由于错误或别的某些原因，会产生一些不必要的空格。需要注意的是多余的空格有时也会造成错误。这个插件会自动删除这些不必要的空格。
 
-##17、FileDiffs
+##FileDiffs
 
 这个插件允许你看到SublimeText中两个不同文件的差异。你可以比较的对象可以是从剪贴板中复制的数据，或工程中的文件，当前打开的文件等
 
-##18、GBK Support
+##GBK Support
 
 对应gb2312来说，Sublime Text 2 本生不支持的，我们可以通过Ctrl+Shift+P调出命令面板或Perferences->Package Contro,输入install 调出 Install Package 选项并回车，在输入“GBK Support”选择开始安装，左下角状态栏有提示安装成功。这时打开gbk编码的文件就不会出现乱码了，如果有需要转成utf-8的可以在File-GBK to UTF8-选择Save with UTF8就偶看了。
 
-##19、jQuery Package
+##jQuery Package
 
-##20、DocBlockr 
+##DocBlockr 
 
 注释插件 DocBlockr这个插件可以很好的生成js ,php 等语言函数注释,只需要在函数上面输入/** ,然后按tab 就会自动生成注释
 
-##21、AutoFileName
+##AutoFileName
 
 快捷输入文件名，自动完成文件名的输入，如图片选取，输入”/”即可看到相对于本项目文件夹的其他文件
 
 
-##22、AdvanceNewFile
+##AdvanceNewFile
 ST本来自带的创建新文件的快捷键是ctrl+n。但是用户需要保存时才可修改名称以及文件路径。但是安装完AdvanceNewFile插件后，一切都会变得相当容易。
 按着ctrl+alt+n ,下方会出现一个填写路径的框，你可在内直接填写文件名，将文件保存在默认路径；也可自己编写路径保存
 
-##23、babel
+##babel
 支持ES6， React.js, jsx代码高亮，对 JavaScript, jQuery 也有很好的扩展。
 
-##24、Alignment
+##Alignment
 使”=”号对齐，变量定义太多，长短不一，可一键对齐,默认快捷键Ctrl+Alt+A和QQ截屏冲突，可设置其他快捷键如：Ctrl+Shift+Alt+A；先选择要对齐的文本
 
-##25、Clipboard History
+##Clipboard History
 **功能：**粘贴板历史记录.
 
 **简介：**方便使用复制/剪切的内容.
@@ -206,7 +206,7 @@ Ctrl+shift+v：粘贴上一条记录（最旧）.
 Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 
 
-##26、IMESupport
+##IMESupport
 **功能：**sublime中文输入法.
 
 **简介：**还在纠结 Sublime Text 中文输入法不能跟随光标吗？试试「IMESupport 」这个插件吧！目前只支持 Windows，在搜索等界面不能很好的跟随光标.
@@ -215,7 +215,7 @@ Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 
 
 
-##27、Trailing spaces
+##Trailing spaces
 **功能：**检测并一键去除代码中多余的空格.
 
 **简介：**在纠结代码中有多余的空格而显得代码不规范？或是有处女座情节？次插件帮你实现发现多余空格、一键删除空格、保存时自动删除多余空格，让你的代码规范清爽起来.
