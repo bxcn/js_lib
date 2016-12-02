@@ -46,6 +46,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 - [clipboard history](#clipboard-history)
 - [imesupport](#imesupport)
 - [trailing spaces](#trailing-spaces)
+- [editorconfig](#editorconfig)
 
 
 #常用插件
@@ -135,7 +136,7 @@ SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。�
     }
 ]
 
-
+!
 
 ##Nettuts Fetch
 
@@ -218,3 +219,7 @@ Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 **简介：**在纠结代码中有多余的空格而显得代码不规范？或是有处女座情节？次插件帮你实现发现多余空格、一键删除空格、保存时自动删除多余空格，让你的代码规范清爽起来.
 
 **使用：**安装插件并重启，即可自动提示多余空格。一键删除多余空格：CTRL+SHITF+T（需配置），更多配置请点击标题。快捷键配置：在Preferences / Key Bindings – User加上代码（数组内）.
+
+##EditorConfig
+帮助开发人员定义和维护一致的编码风格在不同的编辑器和IDE。EditorConfig项目包含一个文件格式定义编码风格和文本编辑器插件的集合。EditorConfig文件易于阅读并且他们与版本控制器很好地合作。
+[EditorConfig](https://github.com/editorconfig?page=1)
