@@ -134,11 +134,49 @@ SideBarEnhancements是一个可以自定义打开方式快捷键的工具包。�
 
 这个插件允许你看到SublimeText中两个不同文件的差异。你可以比较的对象可以是从剪贴板中复制的数据，或工程中的文件，当前打开的文件等
 
+##18、GBK Support
+
+对应gb2312来说，Sublime Text 2 本生不支持的，我们可以通过Ctrl+Shift+P调出命令面板或Perferences->Package Contro,输入install 调出 Install Package 选项并回车，在输入“GBK Support”选择开始安装，左下角状态栏有提示安装成功。这时打开gbk编码的文件就不会出现乱码了，如果有需要转成utf-8的可以在File-GBK to UTF8-选择Save with UTF8就偶看了。
+
+##19、jQuery Package
+
+##20、DocBlockr 
+
+注释插件 DocBlockr这个插件可以很好的生成js ,php 等语言函数注释,只需要在函数上面输入/** ,然后按tab 就会自动生成注释
+
+##21、AutoFileName
+
+快捷输入文件名，自动完成文件名的输入，如图片选取，输入”/”即可看到相对于本项目文件夹的其他文件
 
 
+##22、AdvanceNewFile
+ST本来自带的创建新文件的快捷键是ctrl+n。但是用户需要保存时才可修改名称以及文件路径。但是安装完AdvanceNewFile插件后，一切都会变得相当容易。
+按着ctrl+alt+n ,下方会出现一个填写路径的框，你可在内直接填写文件名，将文件保存在默认路径；也可自己编写路径保存
+
+##23、babel
+支持ES6， React.js, jsx代码高亮，对 JavaScript, jQuery 也有很好的扩展。
+
+##24、Alignment
+使”=”号对齐，变量定义太多，长短不一，可一键对齐,默认快捷键Ctrl+Alt+A和QQ截屏冲突，可设置其他快捷键如：Ctrl+Shift+Alt+A；先选择要对齐的文本
+
+##Clipboard History
+*功能：*粘贴板历史记录
+*简介：*方便使用复制/剪切的内容
+*使用：*
+Ctrl+alt+v：显示历史记录
+Ctrl+alt+d：清空历史记录
+Ctrl+shift+v：粘贴上一条记录（最旧）
+Ctrl+shift+alt+v：粘贴下一条记录（最新）
 
 
+##25、IMESupport
+*功能：*sublime中文输入法
+*简介：*还在纠结 Sublime Text 中文输入法不能跟随光标吗？试试「IMESupport 」这个插件吧！目前只支持 Windows，在搜索等界面不能很好的跟随光标。
+*使用：*Ctrl + Shift + P →输入pci →输入IMESupport →回车
 
 
+##26、Trailing spaces
 
-
+*功能：*检测并一键去除代码中多余的空格
+*简介：*还在纠结代码中有多余的空格而显得代码不规范？或是有处女座情节？次插件帮你实现发现多余空格、一键删除空格、保存时自动删除多余空格，让你的代码规范清爽起来
+*使用：*安装插件并重启，即可自动提示多余空格。一键删除多余空格：CTRL+SHITF+T（需配置），更多配置请点击标题。快捷键配置：在Preferences / Key Bindings – User加上代码（数组内）
