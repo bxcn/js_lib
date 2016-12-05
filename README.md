@@ -1,7 +1,5 @@
-clone地址：
-```
-git clone git://github.com/bxcn/sublime_plugins_config.git
-```
+sublime插件配置说明文档
+===========================================
 
 # 安装Sublime Package Control 安装步骤
 
