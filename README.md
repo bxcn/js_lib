@@ -224,6 +224,9 @@ Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 
 **使用：**安装插件并重启，即可自动提示多余空格。一键删除多余空格：CTRL+SHITF+T（需配置），更多配置请点击标题。快捷键配置：在Preferences / Key Bindings – User加上代码（数组内）.
 
+有空格的代码效果：
+![image](https://github.com/bxcn/sublime_plugins/blob/master/images/tranilingspaces/1_0.png)
+
 ##EditorConfig
 帮助开发人员定义和维护一致的编码风格在不同的编辑器和IDE。EditorConfig项目包含一个文件格式定义编码风格和文本编辑器插件的集合。EditorConfig文件易于阅读并且他们与版本控制器很好地合作。
 [EditorConfig](https://github.com/editorconfig?page=1)
