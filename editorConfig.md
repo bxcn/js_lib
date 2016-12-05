@@ -32,7 +32,7 @@ insert_final_newline: 设为true表明使文件以一个空白行结尾
 
 #配置文件案例
 
-*推荐的默认设置*
+*官网推荐的默认设置*
 
 ```ini
 # editorconfig.org
@@ -48,9 +48,3 @@ insert_final_newline = true
 [*.md]
 trim_trailing_whitespace = false
 ```
-
-#技巧
-
-EditorConfig 代码片段
-
-
