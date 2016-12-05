@@ -3,7 +3,7 @@ sublime插件配置说明文档
 
 # 安装Sublime Package Control 安装步骤
 
-* 第一步：打开sublime 找到`View > Show Console`这个菜单或 ctrl+` 打开 `console`它;
+* 第一步：打开sublime 找到`View > Show Console`这个菜单或`ctrl+\`` 打开 `console`它;
 
 * 第二步：根据版本不同把下面的代码粘贴到`console`中回车
 
