@@ -29,6 +29,11 @@ insert_final_newline: 设为true表明使文件以一个空白行结尾
 
 属性的解释说明请查看[EditorConfig](http://editorconfig.org)网站
 
+#保存前后的效果显示
+![image](https://www.github.com/bxcn/sublime_config/blob/images/editorconfig/1_0.png)
+![image](https://www.github.com/bxcn/sublime_config/blob/images/editorconfig/1_1.png)
+
+
 
 #配置文件案例
 
