@@ -1,5 +1,5 @@
 clone地址：
-```bash
+``` git
 git clone git://github.com/bxcn/sublime_plugins_config.git
 ```
 
