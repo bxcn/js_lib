@@ -1,7 +1,7 @@
 #EditorConfig
 > [EditorConfig](http://editorconfig.org) 帮助开发人员在使用不同的编辑器之间保持一致的编码风格
 
-#Install
+#安装
 启动sublime编辑器并通过Package Control 安装EditorConfig
 
 #开始使用
