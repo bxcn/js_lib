@@ -225,6 +225,7 @@ Ctrl+shift+alt+v：粘贴下一条记录（最新）.
 **使用：**安装插件并重启，即可自动提示多余空格。一键删除多余空格：CTRL+SHITF+T（需配置），更多配置请点击标题。快捷键配置：在Preferences / Key Bindings – User加上代码（数组内）.
 
 有空格的代码效果：
+
 ![image](https://github.com/bxcn/sublime_plugins/blob/master/images/tranilingspaces/1_0.png)
 
 ##EditorConfig
