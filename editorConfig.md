@@ -10,6 +10,7 @@
 
 #EditorConfig支持的属性
 
+--
 root: 表明是最顶层的配置文件，发现设为true时，才会停止查找.editorconfig文件。
 
 indent_style: 设置缩进风格，tab或者空格。tab是hard tabs，space为soft tabs。
@@ -25,7 +26,7 @@ charset： 编码，latin1、utf-8、utf-8-bom、utf-16be和utf-16le，不建议
 trim_trailing_whitespace： 设为true表示会除去换行行首的任意空白字符。
 
 insert_final_newline: 设为true表明使文件以一个空白行结尾
-
+--
 
 属性的解释说明请查看[EditorConfig](http://editorconfig.org)网站
 
