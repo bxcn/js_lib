@@ -9,9 +9,9 @@
 
 
 #EditorConfig支持的属性
-
-|root | 表明是最顶层的配置文件，发现设为true时，才会停止查找.editorconfig文件 |
+|属性名|属性说明|
 | ------- | ------ |
+|root | 表明是最顶层的配置文件，发现设为true时，才会停止查找.editorconfig文件 |
 |indent_style | 设置缩进风格，tab或者空格。tab是hard tabs，space为soft tabs |
 |indent_size | 缩进的宽度，即列数，整数。如果indent_style为tab，则此属性默认为tab_width |
 |tab_width | 设置tab的列数。默认是indent_size|
