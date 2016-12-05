@@ -46,7 +46,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 - [clipboard history](#clipboard-history)
 - [imesupport](#imesupport)
 - [trailing spaces](#trailing-spaces)
-- [editorconfig](#editorconfig)
+- [editorconfig](#editorconfig)[settings](editorConfig.md)
 
 
 #常用插件
