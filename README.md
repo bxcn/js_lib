@@ -150,7 +150,7 @@ PlainTasks 支持通过快捷键来添加任务、标记完成、归档，支持
 ##Bracket Highlighter
 
 类似于代码匹配，可以匹配括号，引号等符号内的范围。
-
+![image](https://github.com/bxcn/sublime_plugins/blob/master/images/brackethighlighter/highlight.gif)
 
 ##Trmmer
 
