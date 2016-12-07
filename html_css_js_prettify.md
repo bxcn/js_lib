@@ -1,6 +1,6 @@
 #.jsbeautifyrc配置说明
 
-```json
+```javascript
 {
   // The plugin looks for a .jsbeautifyrc file in the same directory as the
   // source file you're prettifying (or any directory above if it doesn't exist,
