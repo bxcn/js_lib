@@ -1,0 +1,5 @@
+[
+  { "keys": ["ctrl+shift+a"], "command": "alignment" },
+  { "keys": ["ctrl+shift+l"], "command": "jsFormat" },
+  { "keys": ["ctrl+shift+t"], "command": "trailing_spaces" }
+]

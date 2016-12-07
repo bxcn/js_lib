@@ -1,0 +1,1 @@
+{"version": "1.0.3", "description": "A set of snippets for EditorConfig files", "url": "https://github.com/mfuentesg/EditorConfigSnippets", "platforms": ["*"], "dependencies": [], "sublime_text": "*"}

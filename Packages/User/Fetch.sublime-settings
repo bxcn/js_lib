@@ -1,0 +1,21 @@
+{
+	"files":
+	{
+		"ajaxData": "http://bxcn.github.io/ajaxData/ajaxData.js",
+		"ajaxData.cmd": "http://bxcn.github.io/ajaxData/ajaxData.cmd.js",
+		"handlebars": "http://cdn.bootcss.com/handlebars.js/4.0.6/handlebars.js",
+		"html5shiv.r29": "http://cdn.bootcss.com/html5shiv/r29/html5.js",
+		"jquery.1.11.3": "http://cdn.bootcss.com/jquery/1.11.3/jquery.js",
+		"react-dom.15.4.0": "http://cdn.bootcss.com/react/15.4.0/react-dom.js",
+		"react-redux.5.0.0-beta.3": "http://cdn.bootcss.com/react-redux/5.0.0-beta.3/redux.js",
+		"react-router.4.0.0-alpha.5": "http://cdn.bootcss.com/react-router/4.0.0-alpha.5/react-router.js",
+		"react-with-addons": "http://cdn.bootcss.com/react/15.4.0/react-with-addons.js",
+		"react.15.4.0": "http://cdn.bootcss.com/react/15.4.0/react.js",
+		"require.2.3.1": "http://cdn.bootcss.com/require.js/2.3.1/require.js",
+		"zepto.1.2.0": "http://cdn.bootcss.com/zepto/1.2.0/zepto.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
