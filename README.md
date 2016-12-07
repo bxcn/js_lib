@@ -23,7 +23,7 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 - [terminal](#terminal)
 - [snippet ](#snippet) ([settings](snippet.md))
 - [http requester ](#http-requester)
-- [html-css-js-prettify ](#html-css-js-prettify)
+- [html-css-js-prettify ](#html-css-js-prettify) ([settings](html_css_js_prettify.md))
 - [jsformate ](#terminal)
 - [cssformate](#terminal)
 - [csscomb](#csscomb)
@@ -72,11 +72,13 @@ import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d
 请求URL地址的插件
 
 ##html-css-js-prettify 
-针对html\css\js的一个格式化插件
+
+针对html\css\js的一个格式化插件,可以配置格式化样式的
 
 快捷键：ctrl-shift-h
-配置信息：鼠标右键`HTML/CSS/JS Prettify > Set Prettify Preferences`
+配置文件：鼠标右键`HTML/CSS/JS Prettify > Set Prettify Preferences`
 
+<https://github.com/csscomb/csscomb.js/blob/master/doc/options.md>
 
 ##jsFormate 
 
