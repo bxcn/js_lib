@@ -22,7 +22,6 @@ sublime插件配置说明文档
 - [trmmer](#trmmer)
 - [filediffs](#filediffs)
 - [gbk support](#gbk-support)
-- [jquery package](#jquery-package)
 - [docblock](#terminal)
 - [autofilename](#autofilename)
 - [advancenewfile](#terminal)
@@ -163,8 +162,6 @@ PlainTasks 支持通过快捷键来添加任务、标记完成、归档，支持
 ##GBK Support
 
 对应gb2312来说，Sublime Text 2 本生不支持的，我们可以通过Ctrl+Shift+P调出命令面板或Perferences->Package Contro,输入install 调出 Install Package 选项并回车，在输入“GBK Support”选择开始安装，左下角状态栏有提示安装成功。这时打开gbk编码的文件就不会出现乱码了，如果有需要转成utf-8的可以在File-GBK to UTF8-选择Save with UTF8就偶看了。
-
-##jQuery Package
 
 ##DocBlockr 
 
