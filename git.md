@@ -1,1 +1,1 @@
-#Sublime中的git插件配置123
+#Sublime中的git插件配置
