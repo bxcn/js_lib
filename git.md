@@ -7,7 +7,7 @@
 - 第二步：配置账号[访问](http://blog.csdn.net/itpinpai/article/details/53397539)
 
 ##使用方法
-- 第一步：首先要有一个项目如： `git clone https://github.com/bxcn/sublime_pluginse`
+- 第一步：首先要有一个项目如： `git clone https://github.com/bxcn/sublime_plugin`
 
 - 第二步：通过sublime打开项目，在这个项目中添加几张图片；
 
@@ -15,19 +15,19 @@
 
 ![images](https://github.com/bxcn/sublime_plugins/blob/master/images/git/add.png)
 
-- 第四步：`shift+ctrl+p`打开控制面板，输入`git commit`回车后，打开个sublime的tab签，在第一行输入内容，这里的内容是 `git commit -m` 后面带的说明;
+- 第四步：`shift+ctrl+p`打开控制面板，输入`git commit`回车后，打开个sublime的tab签，在第一行输入是提交版本内容说明，这里的内容是 `git commit -m` 后面带的说明;
 
 ![images](https://github.com/bxcn/sublime_plugins/blob/master/images/git/commit.png)
 
-输入信息前
+输入版本内容说明前
 
 ![images](https://github.com/bxcn/sublime_plugins/blob/master/images/git/commit_message_before.png)
 
-输入信息后
+输入版本内容说明后
 
 ![images](https://github.com/bxcn/sublime_plugins/blob/master/images/git/commit_message_after.png)
 
-**注意:输入信息后，一定要关闭tab签**，然后会显示如图：
+**注意:输入信息后，一定要关闭tab签**（我在开始配置时就没有关闭，吃苦头哦！），然后会显示如图：
 
 ![images](https://github.com/bxcn/sublime_plugins/blob/master/images/git/commit_message_print.png)
 
