@@ -6,6 +6,7 @@ sublime插件配置说明文档
 - [packagecontrol安装](package_control.md)
 - [emmet ](#emmet)
 - [git](git.md)
+- [sublimeReact](sublimeReact.md)
 - [terminal](#terminal)
 - [snippet ](#snippet) ([settings](snippet.md))
 - [http requester ](#http-requester)
